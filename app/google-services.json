@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "728398835361",
+    "firebase_url": "https://fypquiz.firebaseio.com",
+    "project_id": "fypquiz",
+    "storage_bucket": "fypquiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728398835361:android:c570958c6b0ccd4b",
+        "android_client_info": {
+          "package_name": "com.example.jaspe.fypquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728398835361-dp3srrfrpjlnj0cg8uaklcnnesp7ve8f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jaspe.fypquiz",
+            "certificate_hash": "6c50f02a843f27a0914ac2ffc027d67817277bfe"
+          }
+        },
+        {
+          "client_id": "728398835361-3g9us7md01hjvnhiq57sjdm09tugp5tj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbVBO_1ZT34vdvDCnabEKn2TUZEpJnZho"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728398835361-3g9us7md01hjvnhiq57sjdm09tugp5tj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
